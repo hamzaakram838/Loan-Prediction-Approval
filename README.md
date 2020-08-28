@@ -6,12 +6,15 @@ The purpose of this project was to implement a few machine learning algortihms o
 Out of the three models used the Random Forest was the best model as it had the best accuracy on the training and test dataset
 
 Random forest accuracy on training data 0.97 
+
 Random forest accuracy on test data 0.79
 
 SVC accuracy on training data 0.82
+
 SVC accuracy on test data 0.77
 
 Logistic regression accuracy on the training data 0.82
+
 Logistic regression accuracy on the test data 0.77
 
 This project uses a Kaggle dataset which can be found here https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset 
