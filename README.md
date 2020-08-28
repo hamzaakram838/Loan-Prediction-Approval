@@ -15,7 +15,9 @@ Logistic regression accuracy on the training data 0.82
 Logistic regression accuracy on the test data 0.77
 
 This project uses a Kaggle dataset which can be found here https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset 
+
 It uses only the training dataset
+
 It also uses some code to scale the data for the SVC which was from "Introduction to Machine Learning with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido"
 
 
