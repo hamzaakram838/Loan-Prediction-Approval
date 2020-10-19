@@ -23,5 +23,9 @@ It uses only the training dataset
 
 It also uses some code to scale the data for the SVC which was from "Introduction to Machine Learning with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido"
 
+Furthermore this project uses the following open source libraries:
+
+Pandas
+Scikit Learn
 
 This is also my first Github project 
