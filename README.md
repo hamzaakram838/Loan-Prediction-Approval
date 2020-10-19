@@ -25,7 +25,6 @@ It also uses some code to scale the data for the SVC which was from "Introductio
 
 Furthermore this project uses the following open source libraries:
 
-Pandas
-Scikit Learn
+Pandas, Scikit Learn
 
 This is also my first Github project 
